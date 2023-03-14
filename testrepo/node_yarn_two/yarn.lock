@@ -14,15 +14,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"debug@npm:^4.3.1":
-  version: 4.3.2
-  resolution: "debug@npm:4.3.2"
+"debug@npm:^4.3.4":
+  version: 4.3.4
+  resolution: "debug@npm:4.3.4"
   dependencies:
     ms: 2.1.2
   peerDependenciesMeta:
     supports-color:
       optional: true
-  checksum: 5543570879e2274f6725d4285a034d6e0822d35faefc6f55965933fb440e8c21eb3a0bef934e66f4b6b491f898ee2de37cab980e9d4fd61372136c19d3ce4527
+  checksum: 8/3dbad3f94ea64f34431a9cbf0bafb61853eda57bff2880036153438f50fb5a84f27683ba0d8e5426bf41a8c6ff03879488120cf5b3a761e77953169c0600a708
   languageName: node
   linkType: hard
 
@@ -63,7 +63,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "node_yarn_two@workspace:."
   dependencies:
-    debug: ^4.3.1
+    debug: ^4.3.4
     micromatch: ^4.0.4
   languageName: unknown
   linkType: soft
